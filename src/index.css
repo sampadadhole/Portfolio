@@ -75,5 +75,19 @@ margin:1rem 1.5rem;
 
 #Experience{
   margin-top:20rem;
-  background-color: #393434;
+  /* background-color: #393434; */
+}
+
+#Projects .projectheading{
+  margin-left:43rem;
+  text-transform: uppercase;
+  font-weight:bold;
+  font-size:25px;
+}
+
+.experienceheading{
+  margin-left:43rem;
+  text-transform: uppercase;
+  font-weight:bold;
+  font-size:25px;
 }

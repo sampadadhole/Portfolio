@@ -4,6 +4,7 @@ import React from 'react'
 function Experience(){
     return(
         <div className="ExperienceLayout" id="Experience">
+            <h1 class="experienceheading">Experience</h1>
           <section class="text-gray-400 bg-gray-900 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">

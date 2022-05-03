@@ -3,11 +3,13 @@ import React from 'react'
 
 function Projects(){
     return(
-        <div id="Projects">
-            <section class="text-gray-400 bg-gray-900 body-font">
+        <div id="Projects">  
+        <h1 class="projectheading">Projects</h1>  
+    <section class="text-gray-400 bg-gray-900 body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/3">
+      
         <div class="h-full bg-gray-800 bg-opacity-40 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
           {/* <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">CATEGORY</h2> */}
           <h1 class="title-font sm:text-2xl text-xl font-medium text-white mb-3">HealthPlus Services</h1>
