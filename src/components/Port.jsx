@@ -8,10 +8,12 @@ function Port(){
     return(
         <div>
             <Navbar />
-            <About />
-            <Projects />
-            <Experience />
             <LandingPage />
+            <About />
+            <Experience />
+            <Projects />
+            
+            
         </div>
     )
 }

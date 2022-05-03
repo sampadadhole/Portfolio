@@ -4,8 +4,9 @@ function Navbar(){
     return(
         <div className='NavbarContainer'>
             <div>About</div>
-            <div>Projects</div>
-            <div>Experience</div>
+            <div><a href="#Experience">Experience</a></div>
+            <div><a href="#Projects">Projects</a></div>
+           
             <div><a target="_blank" href="https://www.linkedin.com/in/sampada-dhole/">Linkedin</a></div>
         </div>
     )
