@@ -1,5 +1,8 @@
 import React from 'react'
 import me from '../images/me.png'
+import Textra from 'react-textra'
+
+
 
 
 function LandingPage(){
@@ -7,7 +10,7 @@ function LandingPage(){
         <div className='landingcontainer'>
             <div>
                 <h1 className='Name'>Sampada Dhole</h1>
-                <h2 className='FullStack'>Full Stack Developer</h2>
+                <h1 id="textslider"><Textra effect='flash' duration={1000} data={['Full Stack Developer', 'Software Developer Engineer']} /></h1>
             </div>
             <div className='Images'>
             <img src={me} alt="BigCo Inc. logo"/>
@@ -18,4 +21,7 @@ function LandingPage(){
         </div>
     )
 }
+
+
+
 export default LandingPage;

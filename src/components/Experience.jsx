@@ -20,8 +20,16 @@ function Experience(){
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-white mb-1 text-xl">Software Developer Analyst</h2>
-          <h3>Accenture</h3>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h3>Accenture, India</h3>
+          <p class="leading-relaxed">
+              <ul>
+                <li>Led a team of few developers to deliver product features before deadline</li> 
+                <li>Analyzed and deployed Agile development approaches and met sprint targets on time, in a large engineering
+                    SCRUM team</li>
+                <li>Validated Unit and Integration tests, integrated 5000+ lines of code and deployed 
+                    it into production source</li>
+                </ul>
+            </p>
         </div>
       </div>
     </div>
@@ -38,8 +46,17 @@ function Experience(){
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-white mb-1 text-xl">Associate Application developer</h2>
-          <h3>Accenture</h3>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h3>Accenture, India</h3>
+          <p class="leading-relaxed">
+              <ul>
+                     <li> Provided expertise in the areas of application server installation, upgrade, performance monitoring, troubleshooting, application development
+                       and support to increase the client's business by 20%</li>
+                    <li>Collaborated with various teams to make an application functional leveraging languages such as escript, Shell Script, java as well as build front-end with JavaScript, ReactJS, JQuery</li>
+                    <li>Utilized the Git workflows for version controlling and collaboration with the team</li>
+                    <li>Build CI/CD pipelines using Jenkins and Python reduced deployment time from a couple of days to a few
+                    hours</li>
+              </ul>
+          </p>
         </div>
       </div>
     </div>

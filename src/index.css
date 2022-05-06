@@ -55,6 +55,8 @@ width: 350px;
 height: 460px;
 /* left: 895px;
 top: 492px; */
+/* width:300px;
+height:400px; */
 margin-left:61rem;
 margin-top:-1rem;
 }
@@ -90,4 +92,25 @@ margin:1rem 1.5rem;
   text-transform: uppercase;
   font-weight:bold;
   font-size:25px;
+}
+#AboutContainer{
+  margin-top:12rem;
+  padding-top:12rem;
+}
+
+#AboutContainer h1{
+  margin-left:43rem;
+  text-transform: uppercase;
+  font-weight:bold;
+  font-size:25px;
+}
+ul {
+  list-style-type: circle;
+  color:white;
+}
+
+#textslider{
+  margin-left:2rem;
+  font-size:25px;
+ 
 }
