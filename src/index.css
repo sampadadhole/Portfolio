@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,8 +13,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #111827;
   color: #EBDEDE;
+  /* max-width:100%;
+  box-sizing: border-box;
+  max-width:100%;
+  height:auto; */
 }
-
+/*
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -25,6 +31,8 @@ code {
   justify-content: space-between;
   margin-left:53rem;
   padding-right:4rem;
+  max-width:100%;
+  height:auto;
 }
 .Name{
 font-family: 'Inter';
@@ -49,17 +57,6 @@ text-transform: uppercase;
 color: #EBDEDE;
 padding:3px;
 }
-.Images{
-position: absolute;
-width: 350px;
-height: 460px;
-/* left: 895px;
-top: 492px; */
-/* width:300px;
-height:400px; */
-margin-left:61rem;
-margin-top:-1rem;
-}
 .btn{
  width: 156px;
 height: 46px;
@@ -69,15 +66,14 @@ background: #807373;
 border-radius: 31px;
 margin:1rem 1.5rem;
 }
-/* .landingContainer{
-  width:100%;
-  height:100%;
-
-} */
+.landingContainer{
+  display: flex;
+  flex-direction: row-reverse;
+}
 
 #Experience{
   margin-top:20rem;
-  /* background-color: #393434; */
+  
 }
 
 #Projects .projectheading{
@@ -113,4 +109,13 @@ ul {
   margin-left:2rem;
   font-size:25px;
  
-}
+} */
+/* .btn {
+  width: 156px;
+  height: 46px;
+  left: 63px;
+  top: 446px;
+  background: #807373;
+  border-radius: 31px;
+  margin: 1rem 1.5rem;
+} */
