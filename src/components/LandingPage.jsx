@@ -9,7 +9,7 @@ function LandingPage() {
         <h1 className="text-8xl">Sampada Dhole</h1>
         <h1 id="textslider">
           <Textra
-            effect="flash"
+            effect="rightLeft"
             duration={1000}
             data={[
               "Tech Enthusiast",
@@ -20,7 +20,7 @@ function LandingPage() {
           />
         </h1>
         <button className="p-2 border bg-[#71717A] border-gray-500 rounded-full mx-1 my-3">
-          Contact me
+          <a href="mailto:sampadadhole4@gmail.com">Contact me</a>
         </button>
       </div>
       <div className="">
