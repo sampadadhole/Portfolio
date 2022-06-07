@@ -6,7 +6,7 @@ function LandingPage() {
   return (
     <div className="flex justify-between my-32 mx-16 flex-wrap-reverse font-sans">
       <div>
-        <h1 className="text-8xl">Sampada Dhole</h1>
+        <h1 className="text-7xl">Sampada Dhole</h1>
         <h1 id="textslider">
           <Textra
             effect="rightLeft"
