@@ -5,7 +5,7 @@ function Navbar() {
     <div className="max-w-xs ml-auto">
       <div className="flex justify-between mr-7 my-4">
         <div>
-          <a href="#AboutContainer">About</a>
+          <a href="#About">About</a>
         </div>
         <div>
           <a href="#Experience">Experience</a>

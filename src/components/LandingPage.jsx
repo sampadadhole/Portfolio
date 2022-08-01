@@ -15,7 +15,7 @@ function LandingPage() {
               "Tech Enthusiast",
               "Passionate Developer",
               "Full Stack Developer",
-              "Software Developer Engineer",
+              "Software Development Engineer",
             ]}
           />
         </h1>
