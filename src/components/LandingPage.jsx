@@ -4,7 +4,7 @@ import Textra from "react-textra";
 
 function LandingPage() {
   return (
-    <div className="flex justify-between my-32 mx-16 flex-wrap-reverse font-sans">
+    <div className="flex justify-between my-32 mx-auto flex-wrap-reverse font-sans max-w-7xl">
       <div>
         <h1 className="text-7xl">Sampada Dhole</h1>
         <h1 id="textslider">
