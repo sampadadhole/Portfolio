@@ -1,14 +1,20 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
-import Port from './components/Port'
+import { useEffect } from "react";
+import "./App.css";
+import Port from "./components/Port";
+import ReactGA from "react-ga4";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const TRACKING_ID = "G-18N3E5YVG8";
+  ReactGA.initialize(TRACKING_ID);
 
-  return (
-   <Port />
-  )
+  useEffect(() => {
+    ReactGA.send({
+      hitType: "pageview",
+      page: "/app",
+    });
+  }, []);
+
+  return <Port />;
 }
 
-export default App
+export default App;
