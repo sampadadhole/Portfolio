@@ -9,7 +9,7 @@ import ReactGA from "react-ga4";
 
 function Port() {
   return (
-    <div>
+    <div className="max-w-7xl mx-auto">
       <Navbar />
       <LandingPage />
       <About />
