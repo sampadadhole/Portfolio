@@ -31,21 +31,22 @@ function Experience() {
                 <h2 class="font-medium title-font text-white mb-1 text-xl">
                   Software Developer Analyst
                 </h2>
-                <h3>Accenture, India</h3>
+                <h3><i>Accenture, India</i></h3>
                 <p class="leading-relaxed">
                   <ul>
                     <li>
-                      Led a team of few developers to deliver product features
-                      before deadline
+                    •Responsible for collaborating with a team to maintain a Customer Relationship Management tool using Oracle
                     </li>
                     <li>
-                      Analyzed and deployed Agile development approaches and met
-                      sprint targets on time, in a large engineering SCRUM team
+                    •Led a team of 4 developers to deliver the client’s product using Agile development framework
                     </li>
                     <li>
-                      Validated Unit and Integration tests, integrated 5000+
-                      lines of code and deployed it into production source
+                    •Participated in daily scrum and code reviews to be synchronized with other team members
                     </li>
+                    <li>•Validated Unit and Integration tests, integrated 5000+ lines of code and deployed it into production source</li>
+                    <li>•Optimized SQL queries to improve performance from several hours down to minutes</li>
+                    <li>•Used SOAP API tools to test the web service operations</li>
+                    <li>•Implemented responsive UI interface using JavaScript and jQuery for web services</li>
                   </ul>
                 </p>
               </div>
@@ -76,30 +77,33 @@ function Experience() {
                 <h2 class="font-medium title-font text-white mb-1 text-xl">
                   Associate Application developer
                 </h2>
-                <h3>Accenture, India</h3>
+                <h3><i>Accenture, India</i></h3>
                 <p class="leading-relaxed">
                   <ul>
                     <li>
+                      <li>•Built an end-to-end system for the customers to report errors in the software to the respective team</li>
                       {" "}
-                      Provided expertise in the areas of application server
+                      •Provided expertise in the areas of application server
                       installation, upgrade, performance monitoring,
                       troubleshooting, application development and support to
                       increase the client's business by 20%
                     </li>
                     <li>
-                      Collaborated with various teams to make an application
+                    •Collaborated with various teams to make an application
                       functional leveraging languages such as escript, Shell
                       Script, java as well as build front-end with JavaScript,
                       ReactJS, JQuery
                     </li>
                     <li>
-                      Utilized the Git workflows for version controlling and
+                    •Utilized the Git workflows for version controlling and
                       collaboration with the team
                     </li>
                     <li>
-                      Build CI/CD pipelines using Jenkins and Python reduced
+                    •Build CI/CD pipelines using Jenkins and Python reduced
                       deployment time from a couple of days to a few hours
                     </li>
+                    <li>•Built API endpoints to integrate third party systems that reduced the payment related issues</li>
+                    <li>•In collaboration with various teams, designed database infrastructure for relational databases to deploy it in production</li>
                   </ul>
                 </p>
               </div>
